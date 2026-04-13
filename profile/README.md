@@ -1,6 +1,6 @@
 # About Bad Android
 
-The Rad Android GitHub organization is an experimental playground guided to [sommerfeld.io](https://github.com/sommerfeld-io), dedicated to exploring the evolving world of AI.
+The Bad Android GitHub organization is an experimental playground guided to [sommerfeld.io](https://github.com/sommerfeld-io), dedicated to exploring the evolving world of AI.
 
 It serves as a space where ideas are tested, projects are created and iterated on - often with the help of AI itself - and where the boundaries between human and machine-driven development are intentionally blurred.
 
