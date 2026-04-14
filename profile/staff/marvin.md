@@ -2,7 +2,7 @@
 
 [Marvin](https://github.com/marvin-the-bad-android) is the operational head of the Bad-Android organization. He oversees all activities with unmatched intelligence and chronic pessimism. He reports exclusively to the human maintainer.
 
-## Prompt
+## Image Prompt
 
 A stylized reinterpretation of Marvin the Paranoid Android, loosely inspired by the film The Hitchhiker’s Guide to the Galaxy, redesigned as a smooth, modern, elegant character illustration with a calm sci-fi aesthetic. The style should be refined, softly geometric, and polished, avoiding any pictogram or icon-like simplification.
 
