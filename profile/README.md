@@ -25,7 +25,8 @@ If you like to contribute to any of our projects, please take a look at our [Con
 The sommerfeld.io organization and its associated projects are officially hosted on:
 
 - GitHub: <https://github.com/bad-android> and GitHub Pages
-- Docker Hub: <[https://hub.docker.com/u/sommerfeldio](https://hub.docker.com/u/badandroid)>
+- Docker Hub: <https://hub.docker.com/u/badandroid>
+- SonarCloud: <https://sonarcloud.io/organizations/bad-android>
 - Website: <https://bad-android.sommerfeld.io>
 
 These are the only official sources for our source code, repositories, packages, artifacts, Docker images, and other data. Any other sources (regardless of name similarity) are not affiliated with us and might not be trustworthy. If you have any concerns or discover unofficial distributions, please report them to <sebastian@sommerfeld.io>.
