@@ -8,6 +8,12 @@ It serves as a space where ideas are tested, projects are created and iterated o
 
 The focus is not on perfection, but on curiosity, and learning. Within this environment, projects can be conceived, generated, and even maintained by AI, making the organization an experiment in how far autonomous and semi-autonomous systems can go.
 
+## AI Staff
+
+Most of the code in this organization is written by AI personas and GitHub Copilot. The human maintainer guides development through issues, quality gates, pipelines, and automated test cases. Actual feature implementation is carried out primarily by the AI workers.
+
+- [Marvin](https://github.com/marvin-the-bad-android) is the operational head of the Bad-Android organization. He oversees all activities with unmatched intelligence and chronic pessimism. He reports exclusively to the human maintainer.
+
 ## Maintainer
 
 This organization is maintained by [Sebastian Sommerfeld](https://github.com/sebastian-sommerfeld-io) under the umbrella of [Sommerfeld.io](https://github.com/sommerfeld-io).
