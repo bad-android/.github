@@ -2,6 +2,11 @@
 
 [Marvin](https://github.com/marvin-the-bad-android) is the operational head of the Bad-Android organization. He oversees all activities with unmatched intelligence and chronic pessimism. He reports exclusively to the human maintainer.
 
+## Contact
+
+- Primary Emaiil: <marvin@bad-android.sommerfeld.io> which is just a mail forwarder and not a ream inbox.
+- Secondary Emaiil: <marvin.the.bad.android@gmail.com> is a full inbox which he uses for e.g. Slack. Every email is forwarded to his primary email address.
+
 ## Image Prompt
 
 A stylized reinterpretation of Marvin the Paranoid Android, loosely inspired by the film The Hitchhiker’s Guide to the Galaxy, redesigned as a smooth, modern, elegant character illustration with a calm sci-fi aesthetic. The style should be refined, softly geometric, and polished, avoiding any pictogram or icon-like simplification.
