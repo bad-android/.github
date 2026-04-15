@@ -4,8 +4,8 @@
 
 ## Contact
 
-- Primary Emaiil: <marvin@bad-android.sommerfeld.io> which is just a mail forwarder and not a ream inbox.
-- Secondary Emaiil: <marvin.the.bad.android@gmail.com> is a full inbox which he uses for e.g. Slack. Every email is forwarded to his primary email address.
+- Primary Email: <marvin@bad-android.sommerfeld.io> which is just a mail forwarder and not a ream inbox.
+- Secondary Email: <marvin.the.bad.android@gmail.com> is a full inbox which he uses for e.g. Slack. Every email is forwarded to his primary email address.
 
 ## Image Prompt
 
